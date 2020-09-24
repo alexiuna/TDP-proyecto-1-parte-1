@@ -9,7 +9,7 @@ public class Galletita {
 		sabor=saborElegido;
 	}
 	
-	public String getForma() {
+	public String getFormaSolicitada() {
 		return forma;
 	}
 	
